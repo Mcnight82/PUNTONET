@@ -1,0 +1,15 @@
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/bin/Debug/net7.0/CLASE_OBJETO
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/bin/Debug/net7.0/CLASE_OBJETO.deps.json
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/bin/Debug/net7.0/CLASE_OBJETO.runtimeconfig.json
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/bin/Debug/net7.0/CLASE_OBJETO.dll
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/bin/Debug/net7.0/CLASE_OBJETO.pdb
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/obj/Debug/net7.0/CLASE_OBJETO.csproj.AssemblyReference.cache
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/obj/Debug/net7.0/CLASE_OBJETO.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/obj/Debug/net7.0/CLASE_OBJETO.AssemblyInfoInputs.cache
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/obj/Debug/net7.0/CLASE_OBJETO.AssemblyInfo.cs
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/obj/Debug/net7.0/CLASE_OBJETO.csproj.CoreCompileInputs.cache
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/obj/Debug/net7.0/CLASE_OBJETO.dll
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/obj/Debug/net7.0/refint/CLASE_OBJETO.dll
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/obj/Debug/net7.0/CLASE_OBJETO.pdb
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/obj/Debug/net7.0/CLASE_OBJETO.genruntimeconfig.cache
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CLASE_OBJETO/obj/Debug/net7.0/ref/CLASE_OBJETO.dll

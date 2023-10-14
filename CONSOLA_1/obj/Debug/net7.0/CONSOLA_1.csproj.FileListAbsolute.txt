@@ -1,0 +1,15 @@
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/bin/Debug/net7.0/CONSOLA_1
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/bin/Debug/net7.0/CONSOLA_1.deps.json
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/bin/Debug/net7.0/CONSOLA_1.runtimeconfig.json
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/bin/Debug/net7.0/CONSOLA_1.dll
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/bin/Debug/net7.0/CONSOLA_1.pdb
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/obj/Debug/net7.0/CONSOLA_1.csproj.AssemblyReference.cache
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/obj/Debug/net7.0/CONSOLA_1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/obj/Debug/net7.0/CONSOLA_1.AssemblyInfoInputs.cache
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/obj/Debug/net7.0/CONSOLA_1.AssemblyInfo.cs
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/obj/Debug/net7.0/CONSOLA_1.csproj.CoreCompileInputs.cache
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/obj/Debug/net7.0/CONSOLA_1.dll
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/obj/Debug/net7.0/refint/CONSOLA_1.dll
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/obj/Debug/net7.0/CONSOLA_1.pdb
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/obj/Debug/net7.0/CONSOLA_1.genruntimeconfig.cache
+/Users/guillermomanzoliz/Documents/PUNTO_NET/CONSOLA_1/obj/Debug/net7.0/ref/CONSOLA_1.dll

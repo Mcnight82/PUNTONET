@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/SegundaApi.props" />
+</Project>
